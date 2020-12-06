@@ -25,6 +25,6 @@ dashGPSext -arg file.movie
 
 ## Usage for multiple files:
 
-It only supports CSV format as output format!
+It __only__ supports CSV format as output format!
 
 Cd into the folder which contains the dashcam clips and run the dashGPSextMult.sh shell script.
